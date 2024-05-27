@@ -1,0 +1,10 @@
+01,21/03/2023,18:47:46,alex,python,hola mundo
+02,21/03/2023,22:06:06,Andres,c++,Andre uso el programa c++
+03,21/03/2023,22:07:41,Juana,word,Juana comió pizza usando word
+04,21/03/2023,22:12:05,Pablo,pascal,Pablo pescado usó pascal
+05,21/03/2023,22:13:07,Pablo,Pascal,Pablo pescado usó pascal
+06,21/03/2023,22:15:57,Andre,Python,Andres es hermano de Andy
+07,21/03/2023,22:17:05,Andres,python,Andres es hermano de Andy
+08,21/03/2023,22:18:45,Andy,java,Andy es hermano de Andres
+09,21/03/2023,22:20:28,Andy,java,Andy es guapo
+10,24/03/2023,16:21:34,choco,pytohn,holalalalal
