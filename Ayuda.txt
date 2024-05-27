@@ -1,0 +1,22 @@
+
+Una estrategia comun es adivinar las vocales
+primero, ya que el español solo cuenta con 
+cinco vocales (a, e, i, o , u), y casi toda 
+palabra tiene al menos una. Ademas, 
+es estadisticamente la mejor estrategia 
+inicial debido a que el 44% de las letras 
+usadas en el idioma español son vocales
+En el idioma español, las doce letras 
+que aparecen mas frecuentemente son, 
+en orden descendente: e-a-o-s-r-n-i-d-l-c-t-u.
+Tomen en cuenta el largo de la palabra
+Es mas sencillo averiguar una palabra 
+cuando solo tienes consonante que 
+cuando solo tienes vocales.Las vocales
+que menos se repiten son la U y la I
+Las seis letras menos frecuentes 
+son: Z,J,Ñ,X,K,W (sumadas tienen una 
+frecuencia que apenas supera el 1,5%)
+La E y la A son identificables facilmente 
+dado su porcentaje de aparicion.
+
